@@ -192,6 +192,44 @@ UPDATE student SET grade = 'Fail' WHERE percentage < '45.00';
 
 select distinct(grade) from student;
 
+select student_id, name, grade, percentage, rank() OVER (order by percentage desc) from student;
+
+select student_id, name, grade, percentage, rank() OVER (order by percentage desc) from student LIMIT 10 OFFSET 2;
+
+SELECT
+	s.student_id,
+	s.name,
+	s.percentage,
+	s.grade,
+	a.city,
+	rank() OVER (order by s.percentage desc)
+FROM student s JOIN address a
+ON a.address_id = s.address_id
+WHERE s.percentage > '80.00'
+ORDER BY s.percentage desc LIMIT 5;
+
+SELECT
+	a.city
+FROM address a LEFT JOIN Student s ON a.address_id = s.address_id;
+
+SELECT a.city
+FROM address a RIGHT JOIN Student s ON a.address_id = s.address_id;
+
+DELETE FROM STUDENT;
+DELETE FROM ADDRESS;
+
+INSERT INTO address (address_id, city) VALUES
+(1, 'Pune, Shivajinager'),
+(2, 'Pune, Hadapsar'),
+(3, 'Kolhapur'),
+(4, 'Nashik'),
+(5, 'Solapur'),
+(6, 'Thane'),
+(7, 'Mumbai'),
+(8, 'Nagpur'),
+(9, 'Satara'),
+(10, 'Sangli');
+
 
 
 
