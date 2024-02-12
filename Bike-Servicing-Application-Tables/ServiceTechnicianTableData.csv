@@ -1,0 +1,11 @@
+technicianId,first_name,last_name,specialization,,insert multiple value in table
+1,Pru,Eyeington,Break,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (1,'Pru','Eyeington','Break');"
+2,Charmain,Philipps,paint,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (2,Charmain,Philipps,paint);"
+3,Barth,Fredi,oil change,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (3,Barth,Fredi,oil change);"
+4,Smitty,O'Scollee,tyre,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (4,Smitty,O'Scollee,tyre);"
+5,Vinny,Medler,sparepart  fiting,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (5,Vinny,Medler,sparepart  fiting);"
+6,Lacee,Sumption,race,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (6,Lacee,Sumption,race);"
+7,Montgomery,Ivashev,welding,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (7,Montgomery,Ivashev,welding);"
+8,Gerladina,Alejandro,helper,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (8,Gerladina,Alejandro,helper);"
+9,Mandy,Dat,putti master,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (9,Mandy,Dat,putti master);"
+10,Nonah,Manske,helper,,"insert into serviceTechnician(technicianId, firstName, lastName, specialization) values (10,Nonah,Manske,helper);"

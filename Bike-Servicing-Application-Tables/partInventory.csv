@@ -1,0 +1,11 @@
+partId,partName,quantityAvailable,price,,insert data
+1,BREAK PAD,1,2000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (1,'BREAK PAD',1,7000);"
+2,OIL,2,3000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (2,'OIL',2,4000);"
+3,SIDE MIRROR,3,7000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (3,'SIDE MIRROR',3,6000);"
+4,BUMPER,4,4000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (4,'BUMPER',4,4000);"
+5,FRONT GLASS,5,6000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (5,'FRONT GLASS',5,40000);"
+6,SEAT COVER,6,4000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (6,'SEAT COVER',6,6000);"
+7,TYRES,7,40000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (7,'TYRES',7,8000);"
+8,DOORS,8,6000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (8,'DOORS',8,5000);"
+9,SUNGLASS,9,8000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (9,'SUNGLASS',9,);"
+10,TAILLIGHT,10,5000,,"inser  into partInventory (partId, partName, quantityAvailable, price) values (10,'TAILLIGHT',10,);"
