@@ -1,0 +1,10 @@
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (1, 'Meris', 'GMC', 'Yukon', 2008, 'Puce', 'SCBZB25E32C057685');
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (2, 'Gweneth', 'Geo', 'Prizm', 1996, 'Fuscia', 'WBAAV33491F886465');
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (3, 'Dewey', 'Infiniti', 'G', 2003, 'Red', 'YV4952CT0C1695876');
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (4, 'Wye', 'Land Rover', 'Range Rover Sport', 2007, 'Green', '1G6DM8ED5B0125517');
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (5, 'Melba', 'Dodge', 'Daytona', 1992, 'Blue', '1FTEW1E87AF304740');
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (6, 'Willis', 'Volkswagen', 'Corrado', 1991, 'Teal', '1G6KD57Y65U573896');
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (7, 'Alina', 'Oldsmobile', 'Bravada', 2001, 'Green', '3N1BC1AP7BL299948');
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (8, 'Mikey', 'Chevrolet', 'Corvette', 1968, 'Fuscia', '2C3CDYBT6EH186688');
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (9, 'Alane', 'Mazda', '626', 1983, 'Maroon', '2T1BPRHE9EC219402');
+insert into bike (bikeId, customrId, make, model, year, color, licensePlate) values (10, 'Gabbey', 'Buick', 'Century', 2002, 'Goldenrod', '3VW1K7AJ8EM569582');

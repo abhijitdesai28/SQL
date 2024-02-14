@@ -1,0 +1,10 @@
+insert into customer (customerId, firstName, lastName, email, phone, address) values (1, 'Bruis', 'Crumpe', 'bcrumpe0@omniture.com', '871-757-5980', '0xd6f113c12f38e7d13564be6f7c84f283c726a4b2');
+insert into customer (customerId, firstName, lastName, email, phone, address) values (2, 'Rowney', 'Kneath', 'rkneath1@webs.com', '625-745-5195', '0x175d9c483de101cecea33a4b0a6b4b4098df05ea');
+insert into customer (customerId, firstName, lastName, email, phone, address) values (3, 'Babette', 'Paquet', 'bpaquet2@dailymail.co.uk', '237-962-1221', '0xdaa3ab7f79a0f19904b3fea93875559c8ddadac9');
+insert into customer (customerId, firstName, lastName, email, phone, address) values (4, 'Zorine', 'Kleinbaum', 'zkleinbaum3@1688.com', '574-712-8862', '0x702bc53c76cb106d17dc4b17711b515706ca4270');
+insert into customer (customerId, firstName, lastName, email, phone, address) values (5, 'Steffi', 'Murrells', 'smurrells4@cdbaby.com', '634-686-4269', '0x8fc873c7c9068770ceec6e2e2b54f0b0b4c55a62');
+insert into customer (customerId, firstName, lastName, email, phone, address) values (6, 'Glennie', 'Bramich', 'gbramich5@free.fr', '640-304-9318', '0xf2a0c025291e1deb53c4d992039fb757cb6fa4b4');
+insert into customer (customerId, firstName, lastName, email, phone, address) values (7, 'Cornell', 'Culp', 'cculp6@pinterest.com', '366-552-9603', '0x02cfba83998c91d4b74936c247e338eaa64fdc11');
+insert into customer (customerId, firstName, lastName, email, phone, address) values (8, 'Nicola', 'Scholcroft', 'nscholcroft7@infoseek.co.jp', '424-215-4078', '0xca19a2bd167a1d6e55537442bce98c50ee07f498');
+insert into customer (customerId, firstName, lastName, email, phone, address) values (9, 'Chase', 'Malkin', 'cmalkin8@opera.com', '399-240-1224', '0xe459d979540530436dbfd17f146616b3f45b9b42');
+insert into customer (customerId, firstName, lastName, email, phone, address) values (10, 'Chelsea', 'Lomen', 'clomen9@youtube.com', '896-246-8780', '0xf55d8111da04b689b8d764396643b513d6e8664e');
